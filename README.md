@@ -1,10 +1,10 @@
 # Ehsaan Khan
 
-### Data & Finance Analyst | Power BI • Excel • Power Query • Reporting Automation
+### Data & Finance Analyst | Power BI • Excel • Power Query • SQL • Python • Reporting Automation
 
 I turn complex data and manual reporting processes into clear insight, controlled reporting and practical business decisions.
 
-My portfolio demonstrates how I frame business questions, structure analytical models, identify meaningful patterns and communicate the next action—not simply build dashboards.
+My portfolio combines polished business case studies with reproducible SQL and Python workflows that show how I structure analytical logic, validate data, identify meaningful patterns and communicate the next action.
 
 Based in the United Kingdom and open to fully remote opportunities across Data Analytics, Business Intelligence, MI, Reporting, Finance Analytics and Process Improvement.
 
@@ -14,26 +14,29 @@ Based in the United Kingdom and open to fully remote opportunities across Data A
 
 ### [Finance Analytics](https://github.com/ehsaan-khan-analytics/finance-analytics-case-study)
 
-Early-arrears risk and intervention prioritisation across a synthetic £216.4m finance portfolio. The analysis moves from portfolio-level KPIs to a targeted risk segment, controlled reporting automation and a testable business response.
+SQL-led early-arrears analysis across a synthetic ~£216m finance portfolio. Includes a reproducible data generator, SQLite schema, segmentation queries, roll-rate analysis, scenario modelling and data-quality controls.
 
 ### [Sales Analytics](https://github.com/ehsaan-khan-analytics/sales-analytics-case-study)
 
-Commercial analysis of sales growth, margin pressure, returns and channel performance. The case study identifies where discount-led growth is weakening margin quality and recommends a focused pricing and returns response.
+SQL + Python commercial analysis of ~15,840 synthetic orders. Covers channel economics, margin leakage, returns, discount exceptions, segment contribution, validation and automated analytical outputs.
 
 ### [People Analytics](https://github.com/ehsaan-khan-analytics/people-analytics-case-study)
 
-Privacy-aware workforce analysis focused on first-year turnover. The case study translates an aggregated retention signal into a fair, reviewable 90-day support pilot.
+Python-led workforce analysis focused on first-year turnover, with reproducible synthetic data, grouped retention analysis and explicit privacy safeguards including small-group suppression.
 
-## Core Capabilities
+## Technical Toolkit
 
+* SQL: aggregation, CTEs, segmentation, contribution analysis, exception logic and data-quality checks
+* Python: pandas-based analysis, validation, grouped metrics, reproducible synthetic data generation and matplotlib visualisation
 * Power BI reporting and dashboard design
 * Power Query data transformation and refresh workflows
 * Advanced Excel and management reporting
 * Data modelling, KPI design and variance analysis
 * Reporting automation, reconciliation and quality controls
 * Finance, commercial, operational and workforce insight
-* Clear stakeholder commentary and decision recommendations
 
 ## How I Work
 
 **Understand the decision → Build transparent logic → Validate the numbers → Explain what matters → Recommend the next action**
+
+I use AI assistance where appropriate to accelerate technical implementation, while retaining ownership of business logic, validation, interpretation and communication.
