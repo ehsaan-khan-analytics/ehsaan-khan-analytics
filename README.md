@@ -12,15 +12,15 @@ Based in the United Kingdom and open to fully remote opportunities across Data A
 
 > All case studies are independent projects created with synthetic and aggregated data. They contain no employer, customer or employee information. Any modelled benefits are planning scenarios rather than realised outcomes.
 
-### Finance Analytics
+### [Finance Analytics](https://github.com/ehsaan-khan-analytics/finance-analytics-case-study)
 
 Early-arrears risk and intervention prioritisation across a synthetic £216.4m finance portfolio. The analysis moves from portfolio-level KPIs to a targeted risk segment, controlled reporting automation and a testable business response.
 
-### Sales Analytics
+### [Sales Analytics](https://github.com/ehsaan-khan-analytics/sales-analytics-case-study)
 
 Commercial analysis of sales growth, margin pressure, returns and channel performance. The case study identifies where discount-led growth is weakening margin quality and recommends a focused pricing and returns response.
 
-### People Analytics
+### [People Analytics](https://github.com/ehsaan-khan-analytics/people-analytics-case-study)
 
 Privacy-aware workforce analysis focused on first-year turnover. The case study translates an aggregated retention signal into a fair, reviewable 90-day support pilot.
 
